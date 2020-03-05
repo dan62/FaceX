@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="FaceX-YOUR-USERNAME-HERE", # Replace with your own username
+    name="FaceX",
     version="0.0.1",
     author="Daniel Goncalves",
     author_email="danielgoncalves62@gmail.com",
