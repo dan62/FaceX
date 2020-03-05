@@ -9,9 +9,9 @@ FaceX is a python library that performs complex mutations and computations for v
 
 ## Getting Started (Library User) 💻
 This libarary is available on pip therefore please follow the steps below to get started:
-1. Run the following command in your terminal
-``` pip install FaceX ```
-<br> <br>
+1. Run the following command in your terminal <br>
+``` pip install FaceX ``` 
+<br>
 
 2. Import module into your project and follow the starter example below (more complex examples can be found in the examples folder): <br>
 ``` 
