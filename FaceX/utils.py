@@ -37,7 +37,7 @@ def extract_faces(image_file):
             num_faces_found: len(faces),
             faces: faces_detected
         }
-    elif:
+    else:
         faces_response_formatted = {
             status: "failed",
             response: "There where no faces detected"
